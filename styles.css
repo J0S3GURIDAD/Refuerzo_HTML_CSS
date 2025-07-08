@@ -6,7 +6,10 @@ box-sizing: border-box;
 
 body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background-color: #121212cd;
+background-image: url('m.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 color: #E0E0E0;
 padding: 1.5rem;
 line-height: 1.6;
